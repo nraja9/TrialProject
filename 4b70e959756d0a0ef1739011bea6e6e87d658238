@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "12f30e01_f7d5d332",
+        "filename": "newreviewFile.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1013295
+      },
+      "writtenOn": "2018-01-23T07:04:46Z",
+      "side": 1,
+      "message": "This code looks fine",
+      "range": {
+        "startLine": 1,
+        "startChar": 10,
+        "endLine": 1,
+        "endChar": 12
+      },
+      "revId": "4b70e959756d0a0ef1739011bea6e6e87d658238",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
